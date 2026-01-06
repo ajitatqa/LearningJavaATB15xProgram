@@ -2,7 +2,9 @@ package ex_01_Java_Basics;
 
 public class Lab011_Table {
 
-    public static void main() {
+    public static void main()
+    {
+
         int table = 9;
 
         System.out.printf("%d x 1 = %d%n", table, table * 1);
